@@ -1,14 +1,11 @@
-# Projeto-POO
-*****Planner Universitário******
--login
--perfil
--eventos
--horarios e precos de transporte
--calendário semanal
--finanças (aluguel, mercado)
--media de notas
--to do's
--trabalhos (separar por materias)
--biblioteca vitual (livros que estao com voce)
--cadernos, com notas de aula
--lembretes
+Planner Universitário
+Aplicativo desktop feito em Java para ajudar universitários a organizar informações acadêmicas e tarefas do dia a dia.
+Funcionalidades
+- Login e perfil do estudante
+- Cadastro de dados universitários
+- Cadastro de disciplinas, provas e trabalhos
+- Lista de tarefas
+- Controle de gastos mensais
+Tecnologias
+- Java
+- Java Swing para as interfaces gráficas
